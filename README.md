@@ -49,14 +49,6 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Msk720&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msk720&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
