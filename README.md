@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate | Flutter Developer 
 
-I am a Computer Science graduate from COMSATS University Islamabad with a strong interest in Flutter development and software engineering. I enjoy building practical, user-friendly applications and continuously improving my skills in MERN  -stack development, REST APIs, databases, and modern software engineering practices.
+I am a Computer Science graduate from COMSATS University Islamabad with a strong interest in Flutter development and software engineering. I enjoy building practical, user-friendly applications and continuously improving my skills in MERN-stack development, REST APIs, databases, and modern software engineering practices.
 
 I am currently seeking internship where I can contribute to real-world projects, collaborate with experienced developers, and continue growing as a software engineer.
 
