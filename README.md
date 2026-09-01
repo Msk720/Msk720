@@ -27,9 +27,10 @@ COMSATS University Islamabad, Abbottabad Campus
 
 CGPA: 3.53 / 4.00
 
+---
+
 ## 🛠️ Technologies & Tools
 
----
 
 ### Languages
 - Dart
