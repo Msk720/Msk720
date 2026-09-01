@@ -33,7 +33,7 @@ COMSATS University Islamabad, Abbottabad Campus
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,js,html,css,github,vscode,cs" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,js,html,css,github,vscode,cloudinary,stripe" />
 </p>
 
 ---
@@ -55,7 +55,6 @@ COMSATS University Islamabad, Abbottabad Campus
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Msk720&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msk720&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
