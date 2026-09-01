@@ -20,7 +20,16 @@ I am actively seeking internship where I can contribute to real-world projects, 
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+COMSATS University Islamabad, Abbottabad Campus
+
+CGPA: 3.53 / 4.00
+
 ## 🛠️ Technologies & Tools
+
+---
 
 ### Languages
 - Dart
