@@ -22,10 +22,11 @@ I am currently seeking internship where I can contribute to real-world projects,
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
+**Bachelor of Science (BS) in Computer Science**
+
 COMSATS University Islamabad, Abbottabad Campus
 
-CGPA: 3.53 / 4.00
+**2022 – 2026**
 
 ---
 
@@ -71,8 +72,8 @@ CGPA: 3.53 / 4.00
 
 ## 📫 Connect With Me
 
-- GitHub: [Msk720](https://github.com/Msk720)
-- LinkedIn: Coming Soon
+- GitHub: https://github.com/Msk720
+- LinkedIn: https://www.linkedin.com/in/salman-khan-5a8974292
 - Email: salmanbattal720@gmail.com
 
 ---
