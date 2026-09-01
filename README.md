@@ -72,9 +72,9 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Msk720
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/salman-khan-5a8974292)
-- Email: salmanbattal720@gmail.com
+📧 **Email:** [salmanbattal720@gmail.com](mailto:salmanbattal720@gmail.com)  
+💼 **LinkedIn:** [Salman Khan](https://www.linkedin.com/in/salman-khan-5a8974292)  
+💻 **GitHub:** [Msk720](https://github.com/Msk720)
 
 ---
 
