@@ -33,7 +33,7 @@ COMSATS University Islamabad, Abbottabad Campus
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,js,html,css,git,github,vscode,androidstudio,cs" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,js,html,css,github,vscode,cs" />
 </p>
 
 ---
