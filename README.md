@@ -1,6 +1,6 @@
-# Hi, I'm Salman Khan 👋
+# Hi, I'm Salman Khan 
 
-### 🚀 Computer Science Graduate | Flutter Developer | Aspiring Software Engineer
+###  Computer Science Graduate | Flutter Developer | Aspiring Software Engineer
 
 I am a Computer Science graduate from COMSATS University Islamabad with a strong interest in Flutter development and software engineering. I enjoy building practical, user-friendly applications and continuously improving my skills in MERN Stack development, REST APIs, and databases.
 
@@ -8,19 +8,19 @@ I am currently seeking internship opportunities where I can contribute to real-w
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Science Graduate
-- 📱 Interested in Mobile Application Development with Flutter
-- 🌐 Currently expanding my Full-Stack Web Development skills
-- 🔗 Learning REST API development and backend integration
-- 🗄️ Experience working with Firebase and MongoDB in projects
-- 💡 Interested in real-world application development
-- 🚀 Currently Flutter, and MERN-Stack internship opportunities
+-  Computer Science Graduate
+-  Interested in Mobile Application Development with Flutter
+-  Currently expanding my Full-Stack Web Development skills
+-  Learning REST API development and backend integration
+-  Experience working with Firebase and MongoDB in projects
+-  Interested in real-world application development
+-  Currently Flutter, and MERN-Stack internship opportunities
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science (BS) in Computer Science**
 
@@ -30,7 +30,7 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,js,html,css,github,vscode" />
@@ -38,7 +38,7 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Flutter Development
 - REST API Development
@@ -50,7 +50,7 @@ COMSATS University Islamabad, Abbottabad Campus
 ---
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:salmanbk720@gmail.com">
@@ -68,4 +68,4 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
